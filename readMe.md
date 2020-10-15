@@ -19,5 +19,8 @@
 <li>Serving HTML Pages</li>
 <li>Serving JSON Data</li>
 <li>Basic Routing</li>
+<li>The Node Package Manager (NPM)</li>
+<li>The Package.json</li>
+<li>Installing Nodemon (Hot Reloading)</li>
 
 </ul>
