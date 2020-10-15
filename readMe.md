@@ -16,5 +16,8 @@
 <li>Readeable Streams</li>
 <li>Writeable Streams</li>
 <li>Pipes</li>
+<li>Serving HTML Pages</li>
+<li>Serving JSON Data</li>
+<li>Basic Routing</li>
 
 </ul>
