@@ -28,5 +28,7 @@
 <li>Templating Engine (Part 2)</li>
 <li>Partial Templates</li>
 <li>Middleware & Static Files</li>
+<li>Query Strings</li>
+<li>Handling Post Request</li>
 
 </ul>
