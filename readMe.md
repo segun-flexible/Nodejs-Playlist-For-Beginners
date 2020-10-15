@@ -15,5 +15,6 @@
 <li>Streams & Buffers</li>
 <li>Readeable Streams</li>
 <li>Writeable Streams</li>
+<li>Pipes</li>
 
 </ul>
