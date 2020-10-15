@@ -10,5 +10,7 @@
 <li>The Node Event Emitter</li>
 <li>Reading & Writing Files</li>
 <li>Creating And Removing Directories</li>
+<li>Clients & Srevers</li>
+<li>Creating a Server</li>
 
 </ul>
