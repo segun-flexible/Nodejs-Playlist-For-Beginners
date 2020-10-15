@@ -27,5 +27,6 @@
 <li>Templating Engine</li>
 <li>Templating Engine (Part 2)</li>
 <li>Partial Templates</li>
+<li>Middleware & Static Files</li>
 
 </ul>
