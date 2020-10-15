@@ -12,5 +12,8 @@
 <li>Creating And Removing Directories</li>
 <li>Clients & Srevers</li>
 <li>Creating a Server</li>
+<li>Streams & Buffers</li>
+<li>Readeable Streams</li>
+<li>Writeable Streams</li>
 
 </ul>
